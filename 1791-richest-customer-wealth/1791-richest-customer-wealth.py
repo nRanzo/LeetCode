@@ -1,7 +1,7 @@
 class Solution:
     def maximumWealth(self, accounts):
-        maxWealth = 0
+        mW = 0
         for i in range(len(accounts)):
-            totalWealth = sum(accounts[i])
-            maxWealth = max(maxWealth, totalWealth)
-        return maxWealth
+            tW = sum(accounts[i])
+            mW = max(mW, tW)
+        return mW
