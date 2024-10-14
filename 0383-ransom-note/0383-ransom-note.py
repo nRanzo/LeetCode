@@ -1,9 +1,10 @@
 class Solution(object):
     def canConstruct(self, ransomNote, magazine):
-        # instead of counting every char
-        st1, st2 = Counter(ransomNote), Counter(magazine)
-        # check intersection
-        if st1 & st2 >= st1:
-            return True
-        return False
-        
+        alphabet = [0] * 26
+        for c in ransomNote:
+            idx = ord(c) - ord('a')
+            i = magazine.find(c, alphabet[idx])
+            if i == -1:
+                return False
+            alphabet[idx] = i + 1
+        return True
