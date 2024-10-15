@@ -67,14 +67,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/nRanzo/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/nRanzo/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Graph
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/nRanzo/LeetCode/tree/master/0310-minimum-height-trees) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/nRanzo/LeetCode/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
