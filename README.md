@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/nRanzo/LeetCode/tree/master/0310-minimum-height-trees) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
