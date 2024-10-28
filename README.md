@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/nRanzo/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nRanzo/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/nRanzo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/nRanzo/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nRanzo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
