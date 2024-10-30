@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nRanzo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nRanzo/LeetCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nRanzo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/nRanzo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nRanzo/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nRanzo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
