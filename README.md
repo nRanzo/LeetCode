@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1603-running-sum-of-1d-array](https://github.com/nRanzo/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/nRanzo/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nRanzo/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0202-happy-number](https://github.com/nRanzo/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nRanzo/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Counting
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nRanzo/LeetCode/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nRanzo/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
