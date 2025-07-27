@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -134,5 +135,10 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nRanzo/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
