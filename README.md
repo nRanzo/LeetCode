@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nRanzo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nRanzo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/nRanzo/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
