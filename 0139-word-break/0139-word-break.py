@@ -18,13 +18,22 @@ class Solution:
     
     # never false pos or false neg, costs more
     def dp(self, s: str, wordDict: List[str]) -> bool:
-        memory = [False] * (len(s) + 1)
-        memory[len(s)] = True
-
-        for i in range(len(s) -1, -1, -1):
-            for w in wordDict:
-                if (i + len(w)) <= len(s) and s[i : i + len(w)] == w:
-                    memory[i] = memory[i + len(w)]
-                if memory[i]:
-                    break
-        return memory[0]
+        wordSet = set(wordDict)
+        n = len(s)
+        if not wordSet: 
+            return False
+        minL = min(map(len, wordSet))
+        maxL = max(map(len, wordSet))
+        dp = [False]*(n+1)
+        dp[0] = True
+        for i in range(n):
+            if not dp[i]: 
+                continue
+            # only valid length
+            for L in range(minL, maxL+1):
+                j = i + L
+                if j <= n and s[i:j] in wordSet:
+                    dp[j] = True
+                    if j == n:    # early exit
+                        return True
+        return dp[n]
