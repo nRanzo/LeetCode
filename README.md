@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0004-median-of-two-sorted-arrays](https://github.com/nRanzo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nRanzo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nRanzo/LeetCode/tree/master/0015-3sum) |
+| [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1603-running-sum-of-1d-array](https://github.com/nRanzo/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/nRanzo/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0006-zigzag-conversion](https://github.com/nRanzo/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/nRanzo/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0001-two-sum](https://github.com/nRanzo/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nRanzo/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0133-clone-graph](https://github.com/nRanzo/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nRanzo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/nRanzo/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -136,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nRanzo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 ## Sorting
 |  |
 | ------- |
@@ -150,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
