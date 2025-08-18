@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0015-3sum](https://github.com/nRanzo/LeetCode/tree/master/0015-3sum) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1036-rotting-oranges](https://github.com/nRanzo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/nRanzo/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/nRanzo/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/nRanzo/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/nRanzo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/nRanzo/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Math
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - rn using LeetH
 | [0133-clone-graph](https://github.com/nRanzo/LeetCode/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/nRanzo/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/nRanzo/LeetCode/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
