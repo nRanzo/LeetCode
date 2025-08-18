@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - rn using LeetHub
+Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here collected as 1036.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Tree
