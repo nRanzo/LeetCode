@@ -67,6 +67,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | ------- |
 | [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/nRanzo/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/nRanzo/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -88,6 +89,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0133-clone-graph](https://github.com/nRanzo/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/nRanzo/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/nRanzo/LeetCode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -168,4 +170,12 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nRanzo/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
