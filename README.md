@@ -50,6 +50,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0008-string-to-integer-atoi](https://github.com/nRanzo/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nRanzo/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0020-valid-parentheses) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
@@ -161,6 +162,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0020-valid-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Memoization
 |  |
