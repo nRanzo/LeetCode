@@ -19,6 +19,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0011-container-with-most-water](https://github.com/nRanzo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nRanzo/LeetCode/tree/master/0015-3sum) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nRanzo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1036-rotting-oranges](https://github.com/nRanzo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/nRanzo/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -37,6 +38,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nRanzo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/nRanzo/LeetCode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/nRanzo/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
@@ -165,6 +167,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/nRanzo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Memoization
 |  |
