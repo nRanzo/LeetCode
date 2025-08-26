@@ -70,6 +70,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | ------- |
 | [0002-add-two-numbers](https://github.com/nRanzo/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nRanzo/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/nRanzo/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/nRanzo/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
 | [0908-middle-of-the-linked-list](https://github.com/nRanzo/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -139,6 +140,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nRanzo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/nRanzo/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
@@ -185,4 +187,12 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nRanzo/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/nRanzo/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
