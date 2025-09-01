@@ -170,6 +170,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | ------- |
 | [0020-valid-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nRanzo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/nRanzo/LeetCode/tree/master/0155-min-stack) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/nRanzo/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Memoization
 |  |
@@ -183,6 +184,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nRanzo/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/nRanzo/LeetCode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
