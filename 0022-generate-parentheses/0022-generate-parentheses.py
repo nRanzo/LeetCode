@@ -1,22 +1,19 @@
+from typing import List
+
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
         res = []
-        stack = deque()
 
-        def helper(num_open: int, num_close: int):
-            if num_open == n and num_close == n:
-                res.append("".join(stack))
+        def helper(curr: str, open_count: int, close_count: int):
+            if open_count == n and close_count == n:
+                res.append(curr)
                 return
 
-            if num_open < n:
-                stack.append('(')   # goes down in associated tree
-                helper(num_open + 1, num_close)
-                stack.pop()         # go up in associated tree
-            
-            if num_close < num_open:
-                stack.append(')')
-                helper(num_open, num_close + 1)
-                stack.pop()
+            if open_count < n:
+                helper(curr + "(", open_count + 1, close_count)
 
-        helper(0, 0)
+            if close_count < open_count:
+                helper(curr + ")", open_count, close_count + 1)
+
+        helper("", 0, 0)
         return res
