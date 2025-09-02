@@ -53,6 +53,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0014-longest-common-prefix](https://github.com/nRanzo/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nRanzo/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0383-ransom-note](https://github.com/nRanzo/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/nRanzo/LeetCode/tree/master/0412-fizz-buzz) |
@@ -154,6 +155,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nRanzo/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0022-generate-parentheses) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 ## Sorting
 |  |
@@ -180,6 +182,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nRanzo/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/nRanzo/LeetCode/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
