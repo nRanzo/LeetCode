@@ -18,6 +18,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0004-median-of-two-sorted-arrays](https://github.com/nRanzo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/nRanzo/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nRanzo/LeetCode/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/nRanzo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0139-word-break](https://github.com/nRanzo/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nRanzo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -34,6 +35,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/nRanzo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1036-rotting-oranges](https://github.com/nRanzo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1791-richest-customer-wealth](https://github.com/nRanzo/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Math
@@ -125,6 +127,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nRanzo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/nRanzo/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0792-binary-search](https://github.com/nRanzo/LeetCode/tree/master/0792-binary-search) |
