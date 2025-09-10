@@ -22,6 +22,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0150-evaluate-reverse-polish-notation](https://github.com/nRanzo/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0739-daily-temperatures](https://github.com/nRanzo/LeetCode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/nRanzo/LeetCode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/nRanzo/LeetCode/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/nRanzo/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/nRanzo/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -126,6 +127,7 @@ Be aware that some LC numbers are wrong. For example 994 Rotting Oranges is here
 | [0004-median-of-two-sorted-arrays](https://github.com/nRanzo/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nRanzo/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/nRanzo/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0792-binary-search](https://github.com/nRanzo/LeetCode/tree/master/0792-binary-search) |
 ## Graph
 |  |
 | ------- |
