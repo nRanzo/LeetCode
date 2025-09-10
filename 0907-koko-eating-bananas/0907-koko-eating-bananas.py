@@ -7,7 +7,7 @@ class Solution:
             k = (l + r) // 2
             tot = 0
             for p in piles:
-                tot += math.ceil(p / k)
+                tot += (p + k - 1) // k  # evita math.ceil
             if tot <= h:
                 res = k
                 r = k - 1
