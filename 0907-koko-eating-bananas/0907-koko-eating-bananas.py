@@ -5,8 +5,7 @@ class Solution:
         
         while l <= r:
             k = (l + r) // 2
-            tot = sum(math.ceil(p / k) for p in piles)
-
+            tot = reduce(lambda acc, p: acc + math.ceil(p / k), piles, 0)
             if tot <= h:
                 res = k
                 r = k - 1
